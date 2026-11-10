@@ -1,3 +1,11 @@
 body {
-    background-color: #345678;
+    background-color: #367588;
+}
+
+main {
+    background-color: #ffcea8;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
 }
